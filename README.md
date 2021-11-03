@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Bruno Dias</h1>
 <h3 align="left">Web Developer, focused on Full Stack</h3>
-<p align="right"><a href="https://app.daily.dev/snipsnip0"><img src="https://github.com/snipsnip0/snipsnip0/blob/main/devcard.svg" width="400" alt="Bruno Dias's Dev Card"/></a></p>
+<span align="right"><a href="https://app.daily.dev/snipsnip0"><img src="https://github.com/snipsnip0/snipsnip0/blob/main/devcard.svg" width="400" alt="Bruno Dias's Dev Card"/></a></span>
 
 
 - 🌱 I’m currently learning **ReactJS and mobile focused frameworks**
