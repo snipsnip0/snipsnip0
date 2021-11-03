@@ -4,7 +4,6 @@
 
 <table border="0">
  <tr>
-    <td><p align="right"><a href="https://app.daily.dev/snipsnip0"><img src="https://github.com/snipsnip0/snipsnip0/blob/main/devcard.svg" width="400" alt="Bruno Dias's Dev Card"/></a></p></td>
     <td>- 🌱 I’m currently learning **ReactJS and mobile focused frameworks**
 
 - 📫 How to reach me **diasbruno.personal@gmail.com**
@@ -13,6 +12,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/personal-bruno-dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="personal-bruno-dias" height="30" width="40" /></a>
 </p></td>
+  
+    <td><p align="right"><a href="https://app.daily.dev/snipsnip0"><img src="https://github.com/snipsnip0/snipsnip0/blob/main/devcard.svg" width="400" alt="Bruno Dias's Dev Card"/></a></p></td>
  </tr>
 </table>
 
