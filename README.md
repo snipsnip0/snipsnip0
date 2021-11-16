@@ -7,8 +7,8 @@
 <h3 align="center">Web Developer, focused on Full Stack</h3>
 
 <div align="left">
-  - 🌱 I’m currently learning **ReactJS and mobile focused frameworks**
-  - 📫 How to reach me <b>diasbruno.personal@gmail.com<b>
+  - 🌱 I’m currently learning <b>ReactJS and mobile focused frameworks</b><br>
+  - 📫 How to reach me <b>diasbruno.personal@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
